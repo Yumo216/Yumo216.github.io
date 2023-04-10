@@ -47,12 +47,17 @@ main {
   font-style: italic;
 }
 
-#footer_container #finicount_views{
+#view {
   display: flex;
   color: #fff;
-  text-align: center;
-  font-size: 13px;
   font-style: italic;
+  font-size: 13px;
+}
+
+#footer_container #finicount_views{
+  margin-left: 5px;
+  display: flex;
+  text-align: center;
 }
 
 .blue-link {
